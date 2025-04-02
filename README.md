@@ -1,0 +1,2 @@
+# autologin
+Start work VM
